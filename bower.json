@@ -6,9 +6,6 @@
   ],
   "description": "Angular directives for formatting and validating credit card inputs",
   "main": "./release/angular-credit-cards.js",
-  "moduleType": [
-    "node"
-  ],
   "keywords": [
     "angular",
     "credit",
